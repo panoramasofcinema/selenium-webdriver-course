@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# GLOBAL
+# misc
+.DS_Store
+__pycache__/
+*.zip
+.pytest_cache
+reports
+
+
+# BACKEND
+# local env files
+venv
+
+# FRONTEND
